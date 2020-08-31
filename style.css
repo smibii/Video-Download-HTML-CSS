@@ -1,0 +1,40 @@
+body{
+  margin: 20 auto 0 auto;
+  text-align: center;
+}
+
+.vid{
+  background-color: #943654;
+  border: none;
+  border-radius: 5px;
+}
+
+#dl-btn{
+  margin-top: 100;
+}
+
+.btn {
+  background-color: #F3674B;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  color: #000;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  font-family: 'Roboto Slab', sans-serif;
+  font-size: 7;
+  color: #254765;
+}
+
+
+
+.btn:hover {
+  background-color: #862727;
+  color: #fff;
+}
